@@ -28,15 +28,13 @@ To get started with ID Checker, follow these steps:
    git clone https://github.com/hbr-dev/idChecker.git
 
 2. Navigate to the project directory:
-
-  ```bash
-  cd id-checker
+   ```bash
+   cd id-checker
 
 3. Install the dependencies:
-  ```bash
-  flutter pub get
+   ```bash
+   flutter pub get
 
 4. Run the application:
-
-  ```bash
-  flutter run
+   ```bash
+   flutter run
